@@ -35,11 +35,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [The Complete Guide To Java -2023](https://anaskhan28.hashnode.dev/the-complete-guide-to-java-2023)
- - 🔥 [How to deploy your react application with Vercel super fast 🚀🚀](https://anaskhan28.hashnode.dev/how-to-host-your-react-application-with-vercel-super-fast)
- - 💫 [Caesar Cipher in Javascript](https://anaskhan28.hashnode.dev/caesar-cipher-in-javascript)
- - 💯 [Awesome online tools for self-improving as a developer/software engineer](https://anaskhan28.hashnode.dev/awesome-online-tools-for-self-improving-as-a-developersoftware-engineer)
- - 🚀 [Why I want  to be a Developer?](https://anaskhan28.hashnode.dev/why-i-want-to-be-a-developer)<!-- BLOGPOSTS:END -->
+ - 🌮 [Qwik City: Supercharge Your Development](https://anaskhan28.hashnode.dev/qwik-city-supercharge-your-development)
+ - 🔥 [The Complete Guide To Java -2023](https://anaskhan28.hashnode.dev/the-complete-guide-to-java-2023)
+ - 💫 [How to deploy your react application with Vercel super fast 🚀🚀](https://anaskhan28.hashnode.dev/how-to-host-your-react-application-with-vercel-super-fast)
+ - 💯 [Caesar Cipher in Javascript](https://anaskhan28.hashnode.dev/caesar-cipher-in-javascript)
+ - 🚀 [Awesome online tools for self-improving as a developer/software engineer](https://anaskhan28.hashnode.dev/awesome-online-tools-for-self-improving-as-a-developersoftware-engineer)<!-- BLOGPOSTS:END -->
   </oi>
 <br>
 
