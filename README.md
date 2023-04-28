@@ -35,11 +35,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [Behind the Scenes: A Day in the Life of an Intern](https://anaskhan28.hashnode.dev/behind-the-scenes-a-day-in-the-life-of-an-intern)
- - 🔥 [Qwik City: Supercharge Your Development](https://anaskhan28.hashnode.dev/qwik-city-supercharge-your-development)
- - 💫 [The Complete Guide To Java -2023](https://anaskhan28.hashnode.dev/the-complete-guide-to-java-2023)
- - 💯 [How to deploy your react application with Vercel super fast 🚀🚀](https://anaskhan28.hashnode.dev/how-to-host-your-react-application-with-vercel-super-fast)
- - 🚀 [Caesar Cipher in Javascript](https://anaskhan28.hashnode.dev/caesar-cipher-in-javascript)<!-- BLOGPOSTS:END -->
+ - 🌮 [Building a Layoff Prediction Model: A Beginner&#39;s Guide to MindsDB](https://anaskhan28.hashnode.dev/building-a-layoff-prediction-model-a-beginners-guide-to-mindsdb)
+ - 🔥 [Behind the Scenes: A Day in the Life of an Intern](https://anaskhan28.hashnode.dev/behind-the-scenes-a-day-in-the-life-of-an-intern)
+ - 💫 [Qwik City: Supercharge Your Development](https://anaskhan28.hashnode.dev/qwik-city-supercharge-your-development)
+ - 💯 [The Complete Guide To Java -2023](https://anaskhan28.hashnode.dev/the-complete-guide-to-java-2023)
+ - 🚀 [How to deploy your react application with Vercel super fast 🚀🚀](https://anaskhan28.hashnode.dev/how-to-host-your-react-application-with-vercel-super-fast)<!-- BLOGPOSTS:END -->
   </oi>
 <br>
 
